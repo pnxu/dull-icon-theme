@@ -1,0 +1,176 @@
+{
+  "iconDefinitions": {
+    "_javascript": {
+      "iconPath": "icons/24.png"
+    },
+    "_typescript": {
+      "iconPath": "icons/21.png"
+    },
+    "_markdown": {
+      "iconPath": "icons/03.png"
+    },
+    "_html": {
+      "iconPath": "icons/02.png"
+    },
+    "_css": {
+      "iconPath": "icons/12.png"
+    },
+    "_file": {
+      "iconPath": "icons/01.png"
+    },
+    "_javascript_test": {
+      "iconPath": "icons/10.png"
+    },
+    "_json": {
+      "iconPath": "icons/18.png"
+    },
+    "_lock": {
+      "iconPath": "icons/08.png"
+    },
+    "_eslint": {
+      "iconPath": "icons/20.png"
+    },
+    "_prettier": {
+      "iconPath": "icons/13.png"
+    },
+    "_git": {
+      "iconPath": "icons/14.png"
+    },
+    "_log": {
+      "iconPath": "icons/15.png"
+    },
+    "_image": {
+      "iconPath": "icons/16.png"
+    },
+    "_babel": {
+      "iconPath": "icons/17.png"
+    },
+    "_license": {
+      "iconPath": "icons/19.png"
+    },
+    "_package": {
+      "iconPath": "icons/22.png"
+    },
+    "_graphql": {
+      "iconPath": "icons/04.png"
+    },
+    "_jest": {
+      "iconPath": "icons/09.png"
+    },
+    "_apollo": {
+      "iconPath": "icons/24.png"
+    },
+    "_bazel": {
+      "iconPath": "icons/11.png"
+    },
+    "_music": {
+      "iconPath": "icons/06.png"
+    },
+    "_solidity": {
+      "iconPath": "icons/23.png"
+    },
+    "_yml": {
+      "iconPath": "icons/10.png"
+    },
+    "_env": {
+      "iconPath": "icons/05.png"
+    },
+    "_config": {
+      "iconPath": "icons/07.png"
+    }
+  },
+  "file": "_file",
+  "fileExtensions": {
+    "js": "_javascript",
+    "jsx": "_javascript",
+    "ts": "_typescript",
+    "tsx": "_typescript",
+    "jpeg": "_image",
+    "jpg": "_image",
+    "gif": "_image",
+    "png": "_image",
+    "bmp": "_image",
+    "ico": "_image",
+    "svg": "_image",
+    "mp3": "_music",
+    "ogg": "_music",
+    "wav": "_music",
+    "node.js": "_javascript_test",
+    "browser.js": "_javascript_test",
+    "md": "_markdown",
+    "graphql": "_graphql",
+    "proto": "_proto",
+    "thrift": "_thrift",
+    "git": "_git",
+    "snap": "_javascript_test",
+    "log": "_log",
+    "sol": "_solidity",
+    "yml": "_yml",
+    "config.js": "_config"
+  },
+  "fileNames": {
+    "license": "_license",
+    "licence": "_license",
+    "license.md": "_license",
+    "licence.md": "_license",
+    "license.txt": "_license",
+    "copyright": "_license",
+    "copyright.md": "_license",
+    "package.json": "_package",
+    "package-lock.json": "_lock",
+    "npm-debug.log": "_log",
+    "vscodeignore.json": "_visualstudiocode",
+    "extensions.json": "_visualstudiocode",
+    "launch.json": "_visualstudiocode",
+    "settings.json": "_visualstudiocode",
+    "jsconfig.json": "_json",
+    "tsconfig.json": "_json",
+    "yarn.lock": "_lock",
+    "yarn-error.log": "_log",
+    ".babelrc": "_babel",
+    ".babel.config.js": "_babel",
+    ".eslintrc.js": "_eslint",
+    ".eslintrc.yml": "_eslint",
+    ".eslintrc.yaml": "_eslint",
+    ".eslintrc.json": "_eslint",
+    ".eslintignore": "_eslint",
+    "prettierrc.js": "_prettier",
+    "prettierrc.json": "_prettier",
+    "prettierrc.yml": "_prettier",
+    "prettierrc.yaml": "_prettier",
+    "prettier.config.js": "_prettier",
+    "prettier.config.ts": "_prettier",
+    "prettier.config.coffee": "_prettier",
+    ".prettierignore": "_prettier",
+    ".prettierrc": "_prettier",
+    "tslint.js": "_tslint",
+    "tslint.ts": "_tslint",
+    "tslint.json": "_tslint",
+    "contributing": "_markdown",
+    "history": "_markdown",
+    "history.md": "_markdown",
+    "changelog": "_log",
+    "changelog.md": "_log",
+    "changelog.json": "_log",
+    "metadata": "_markdown",
+    ".flowconfig": "_flow",
+    ".fusionrc.config": "_fusion",
+    "bazelisk": "_bazel",
+    "BUILD.bazel": "_bazel",
+    "jest.config.js": "_jest",
+    "jest.integration.config.js": "_jest",
+    "apollo.config.js": "_apollo",
+    ".gitignore": "_git",
+    ".graphqlconfig": "_graphql",
+    ".env.production": "_env",
+    ".env.development": "_env"
+  },
+  "languageIds": {
+    "git": "_git",
+    "javascript": "_javascript",
+    "typescript": "_typescript",
+    "css": "_css",
+    "html": "_html",
+    "json": "_json"
+  }
+}
