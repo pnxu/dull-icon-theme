@@ -10,12 +10,12 @@ A calm, monochrome icon theme for focused workspaces.
 
 ### 🐇 Installation
 
-[**From the Marketplace →**](https://marketplace.visualstudio.com/items?itemName=pnxu.dull-icon-theme)
+[**From the Marketplace →**](https://raw.githubusercontent.com/pnxu/dull-icon-theme/main/images/preview.png)
 
 or manually from VS Code:
 
 ```bash
-code --install-extension pnxu.dull-icon-theme@0.0.5
+code --install-extension pnxu.dull-icon-theme@0.0.6
 ```
 
 ### 🌱 Activation
