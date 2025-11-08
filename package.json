@@ -2,7 +2,7 @@
   "name": "dull-icon-theme",
   "displayName": "Dull Icon Theme",
   "description": "Custom icon theme for VS Code",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "pnxu",
   "repository": {
     "type": "git",
