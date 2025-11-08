@@ -1,12 +1,12 @@
 {
-  "name": "dull-icon-theme",
-  "displayName": "Dull Icon Theme",
+  "name": "dull-icons-theme",
+  "displayName": "Dull Icons Theme",
   "description": "Custom icon theme for VS Code",
   "version": "0.0.3",
   "publisher": "pnxu",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pnxu/dull-icon-theme"
+    "url": "https://github.com/pnxu/dull-icons-theme"
   },
   "engines": {
     "vscode": "^1.95.0"
@@ -17,8 +17,8 @@
   "contributes": {
     "iconThemes": [
       {
-        "id": "dullIconTheme",
-        "label": "Dull Icon Theme",
+        "id": "dullIconsTheme",
+        "label": "Dull Icons Theme",
         "path": "./icon-theme.json"
       }
     ]
