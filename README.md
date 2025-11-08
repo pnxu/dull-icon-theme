@@ -15,7 +15,7 @@ A calm, monochrome icon theme for focused workspaces.
 or manually from VS Code:
 
 ```bash
-code --install-extension pnxu.dull-icon-theme@0.0.3
+code --install-extension pnxu.dull-icon-theme@0.0.4
 ```
 
 ### 🌱 Activation
