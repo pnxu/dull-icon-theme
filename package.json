@@ -5,6 +5,7 @@
   "icon": "icons/10.png",
   "version": "1.0.0",
   "publisher": "pnxu",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/pnxu/dull-icon-theme"
